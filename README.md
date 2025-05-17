@@ -9,6 +9,10 @@ Edit the content (name, descriptions, projects, contact info) as needed.
 
 I'm **Nikita Ridny**, a Python developer passionate about learning new technologies and building projects. Always open to collaborations and sharing knowledge. In my free time, I work on personal projects.
 
+## Контакты / Contact
+<!-- Замените контактные данные ниже на свои -->
+[![Telegram](https://img.shields.io/badge/Telegram-%40Antiniks-0088CC?style=flat-square&logo=telegram)](https://t.me/antiniks)  
+[![Email](https://img.shields.io/badge/Email-NikitaRydnai@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:YourEmail@example.com)
 
 ## 🔧 Стек технологий / Tech Stack
 
@@ -37,7 +41,4 @@ I'm **Nikita Ridny**, a Python developer passionate about learning new technolog
 | [Project-6](https://github.com/NikitaRidnay/TicketsBot) |Телеграмм бот для сбора,хранения и отправки запросов в чат тех поддержки. |Python,Telethon,SQL Alchemy,PostgresSQL,Alembic |
 
 
-## Контакты / Contact
-<!-- Замените контактные данные ниже на свои -->
-[![Telegram](https://img.shields.io/badge/Telegram-%40Antiniks-0088CC?style=flat-square&logo=telegram)](https://t.me/antiniks)  
-[![Email](https://img.shields.io/badge/Email-NikitaRydnai@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:YourEmail@example.com)
+
