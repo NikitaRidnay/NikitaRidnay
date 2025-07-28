@@ -21,7 +21,13 @@ I'm **Nikita Ridny**, a Python developer passionate about learning new technolog
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 - ![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=flat-square&logo=telegram&logoColor=white) 
-
+- ![Alembic](https://img.shields.io/badge/Alembic-000000?style=flat&logo=sqlalchemy&logoColor=white)
+- ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=000)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+- ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+- ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+- ![YandexCloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 
 
 
